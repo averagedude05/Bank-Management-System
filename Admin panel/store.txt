@@ -1,0 +1,3 @@
+Name:Adib Afsar Khan
+PIN:1234
+Balance:2000
