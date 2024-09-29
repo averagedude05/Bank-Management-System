@@ -35,11 +35,11 @@ import java.awt.event.ActionEvent;
     f.setLayout(null);
 	
 	
-	JLabel amountlabel=new JLabel("Enter the amount:");
-	amountlabel.setBounds(100,130,100,50);
+	JLabel amountlabel=new JLabel("Enter amount");
+	amountlabel.setBounds(140,130,100,50);
 	
 	eamount=new JTextField();
-	eamount.setBounds(210,135,200,50);
+	eamount.setBounds(230,135,200,50);
 	
 	f.add(amountlabel);
 	f.add(eamount);
