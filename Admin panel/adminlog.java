@@ -17,10 +17,6 @@ class adminlog implements ActionListener{
         adminFrame.setSize(600,400);
         adminFrame.setLocationRelativeTo(null);
         adminFrame.setLayout(null);
-       
-       ImageIcon backgound=new ImageIcon("adminlog.jpeg");
-       Image i2=backgound.getImage().getScaledInstance(600, 400,Image.SCALE_DEFAULT);
-       ImageIcon i3=new ImageIcon(i2);
   
         JLabel username=new JLabel("Username");
         username.setBounds(150,110,150,60);
