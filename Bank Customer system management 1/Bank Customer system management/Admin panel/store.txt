@@ -1,0 +1,4 @@
+Account no:1235
+Name:Rimon
+PIN:54321
+Balance:1000.0
